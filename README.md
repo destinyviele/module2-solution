@@ -1,2 +1,3 @@
 # module2-solution
-https://github.com/siddartha19/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/tree/master/Assignments/module-2#to-see-the-output-click-here
+
+TO SEE THE OUTPUT  CLick this link https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-2/index.html
